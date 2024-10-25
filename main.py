@@ -27,8 +27,7 @@ for feed_item in feed["rss"]["channel"]["item"]:
     })
 
 # Get my repositories
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-print(f"Bearer {GITHUB_TOKEN}")
+GITHUB_TOKEN = os.getenv("GH_TOKEN")
 headers = {
     "Accept": "application/vnd.github+json",
     "Authorization": f"Bearer {GITHUB_TOKEN}",

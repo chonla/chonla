@@ -1,12 +1,25 @@
 # Hello folks!
 
 ```go
-import main
+package main
+
+import "fmt"
 
 type Person struct {
-    Name string
-    Pronouns []string
-    CurrentRole string
+	Name     string
+	Pronouns []string
+}
+
+func (p *Person) Greet() string {
+	return fmt.Sprintf("Hello! I'm %s.", p.Name)
+}
+
+func main() {
+	me := &Person{
+		Name:     "chonla",
+		Pronouns: []string{"he", "him", "his"},
+	}
+	fmt.Println(me.Greet())
 }
 ```
 

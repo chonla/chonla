@@ -14,6 +14,7 @@ data = {
 }
 
 # Get my feeds
+print("Collecting blogs data...")
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 }
@@ -27,6 +28,7 @@ for feed_item in feed["rss"]["channel"]["item"]:
     })
 
 # Get my repositories
+print("Collecting repositories data...")
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
 print(GITHUB_TOKEN[:5])
 headers = {

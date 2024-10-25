@@ -24,7 +24,9 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.pip
     - name: Auto update
-      run: python main.py
+      run: |
+        echo "GH_TOKEN: $GH_TOKEN"  # Print the token to verify
+        python main.py
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
 

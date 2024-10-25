@@ -13,9 +13,6 @@ permissions:
 
 jobs:
   build:
-    env:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
     runs-on: ubuntu-latest
 
     steps:
@@ -24,8 +21,12 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: "3.12"
-    - run: |
-        pip install -r requirements.pip && python main.py
+    - name: Install dependencies
+      run: pip install -r requirements.pip
+    - name: Auto update
+      run: python main.py
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     - uses: stefanzweifel/git-auto-commit-action@v5
       id: auto-commit-action #mandatory for the output to show up in ${{ steps }}

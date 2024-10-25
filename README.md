@@ -36,7 +36,9 @@ func main() {
 - [ฉันมีตัวตนในสายตาเธอบ้างไหม](https://medium.com/odds-team/%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%A1-e891dafea998?source=rss-4f2a1494b85e------2)
 - [Intersectionality](https://medium.com/odds-team/intersectionality-501c0f8db5bf?source=rss-4f2a1494b85e------2)
 
-## Repositories
+## Pinned repositories
+
+I have created many public repositories. These are some of them.
 
 | Name | Description |
 | --- | --- |
@@ -46,3 +48,5 @@ func main() {
 | [thai-address-builder](https://github.com/chonla/thai-address-builder) |  |
 | [cellwalker](https://github.com/chonla/cellwalker) | Excel Cell Name Traversal for Go |
 | [thai-financial-instiutions-holiday](https://github.com/chonla/thai-financial-instiutions-holiday) | Up-to-date Thai Financial Institutions Holiday |
+
+[See more](https://github.com/chonla?tab=repositories).

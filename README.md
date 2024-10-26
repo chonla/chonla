@@ -50,3 +50,7 @@ I have created many public repositories. These are some of them.
 | [csv2img](https://github.com/chonla/csv2img) | Create CSV Table Image |
 
 [See more](https://github.com/chonla?tab=repositories).
+
+## Holopin badges
+
+[![An image of @chonla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chonla)](https://holopin.io/@chonla)

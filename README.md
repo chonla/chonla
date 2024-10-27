@@ -43,8 +43,8 @@ I have created many public repositories. These are some of them.
 | Name | Description |
 | --- | --- |
 | [cotton](https://github.com/chonla/cotton) | Markdown Test Specification Runner |
-| [thai-address](https://github.com/chonla/thai-address) |  |
-| [thai-address-builder](https://github.com/chonla/thai-address-builder) |  |
+| [thai-address](https://github.com/chonla/thai-address) | Yet Another Thai Address Package |
+| [thai-address-builder](https://github.com/chonla/thai-address-builder) | A script to build thai address data for thai address npm package. |
 | [cellwalker](https://github.com/chonla/cellwalker) | Excel Cell Name Traversal for Go |
 | [thai-financial-instiutions-holiday](https://github.com/chonla/thai-financial-instiutions-holiday) | Up-to-date Thai Financial Institutions Holiday |
 | [csv2img](https://github.com/chonla/csv2img) | Create CSV Table Image |

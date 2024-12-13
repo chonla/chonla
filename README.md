@@ -57,4 +57,4 @@ I have created many public repositories. These are some of them.
 
 ## Codewars badge
 
-[![An image of chonla's codewars badge.](https://www.codewars.com/users/chonla)](https://www.codewars.com/users/chonla/badges/large)
+[![An image of chonla's codewars badge.](https://www.codewars.com/users/chonla/badges/large)](https://www.codewars.com/users/chonla)

@@ -25,6 +25,7 @@ func main() {
 
 ## Blogs
 
+- [ซ่อนบาร์ของ Browser](https://medium.com/odds-team/%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%82%E0%B8%AD%E0%B8%87-browser-2d07a5478df3?source=rss-4f2a1494b85e------2)
 - [Agile Transformation — The PST](https://medium.com/odds-team/agile-transformation-the-pst-589a07150b7f?source=rss-4f2a1494b85e------2)
 - [Agile Transformation — Supply &amp; Demand](https://medium.com/odds-team/agile-transformation-supply-demand-84e21ed636b2?source=rss-4f2a1494b85e------2)
 - [ทำให้ Dev Environment เหมือนกันด้วย devbox](https://medium.com/odds-team/%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89-dev-environment-%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-devbox-330741fe34c0?source=rss-4f2a1494b85e------2)
@@ -34,7 +35,6 @@ func main() {
 - [Wardley Map](https://medium.com/odds-team/wardley-map-92e1e2c92775?source=rss-4f2a1494b85e------2)
 - [Sign in with Google บน Rails](https://medium.com/odds-team/sign-in-with-google-%E0%B8%9A%E0%B8%99-rails-d90b490c5678?source=rss-4f2a1494b85e------2)
 - [Product Ownership](https://medium.com/odds-team/product-ownership-9af98752f3a9?source=rss-4f2a1494b85e------2)
-- [เมื่อ User requirement ไม่ได้มีความสำคัญ](https://medium.com/odds-team/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD-user-requirement-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B8%84%E0%B8%B1%E0%B8%8D-4d068fb73e87?source=rss-4f2a1494b85e------2)
 
 ## Pinned repositories
 

@@ -25,6 +25,7 @@ func main() {
 
 ## Blogs
 
+- [ใช้ zod เช็ค JSON schema แบบหล่อ ๆ ใน playwright](https://medium.com/odds-team/%E0%B9%83%E0%B8%8A%E0%B9%89-zod-%E0%B9%80%E0%B8%8A%E0%B9%87%E0%B8%84-json-schema-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%AD-%E0%B9%86-%E0%B9%83%E0%B8%99-playwright-29285d6c2ce3?source=rss-4f2a1494b85e------2)
 - [จัดระเบียบ Page Object Model ด้วย Mixins และ Decorators](https://medium.com/odds-team/%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%9A-page-object-model-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-mixins-%E0%B9%81%E0%B8%A5%E0%B8%B0-decorators-0dc2b3568f3d?source=rss-4f2a1494b85e------2)
 - [mise โคตรเครื่องมือสำหรับ developer](https://medium.com/odds-team/mise-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-developer-3487e283785c?source=rss-4f2a1494b85e------2)
 - [ใช้ localhost ให้เท่ขึ้นแบบคูณสาม](https://medium.com/odds-team/%E0%B9%83%E0%B8%8A%E0%B9%89-localhost-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%84%E0%B8%B9%E0%B8%93%E0%B8%AA%E0%B8%B2%E0%B8%A1-eeb581965c07?source=rss-4f2a1494b85e------2)
@@ -34,7 +35,6 @@ func main() {
 - [ทำให้ Dev Environment เหมือนกันด้วย devbox](https://medium.com/odds-team/%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89-dev-environment-%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-devbox-330741fe34c0?source=rss-4f2a1494b85e------2)
 - [ทดสอบของที่ต้องแตะ database บน NestJS ด้วย in-memory database](https://medium.com/odds-team/%E0%B8%97%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%95%E0%B8%B0-database-%E0%B8%9A%E0%B8%99-nestjs-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-in-memory-database-54925db7f6ba?source=rss-4f2a1494b85e------2)
 - [AI Regulation](https://medium.com/odds-team/ai-regulation-cc8f22b7579b?source=rss-4f2a1494b85e------2)
-- [ODT ไป Web Summit 2024](https://medium.com/odds-team/odt-%E0%B9%84%E0%B8%9B-web-summit-2024-3d8729aca113?source=rss-4f2a1494b85e------2)
 
 ## Pinned repositories
 
